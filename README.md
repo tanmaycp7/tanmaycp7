@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 About Me
+
+Hi! I'm **Tanmay Patil**, a first-year student passionate about **Data Science and AI**. I have learned **Python, Advanced Python, Python for NLP, and Python for Data Science**. I’m focused on building my skills through learning and practical projects.
+
 
 <!--
 **tanmaycp7/tanmaycp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
